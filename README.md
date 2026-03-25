@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User Directory Dashboard
 
 A responsive and interactive User Directory Dashboard built using React.  
@@ -63,3 +64,7 @@ Refactored to use native `<select>` components for better accessibility, stabili
 
 ## Author
 Devi Akshitha Marasu
+=======
+# User-Directed-Dashboard
+React based User Directory Dashboard with search, sorting and grid/table view
+>>>>>>> 1c248cb1153b87cf9cd2fe0ff71c4ca82d74d48a

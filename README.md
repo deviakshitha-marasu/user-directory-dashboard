@@ -63,7 +63,7 @@ Refactored to use native `<select>` components for better accessibility, stabili
 ## Live Demo
 
 ## Author
-**Devi Akshitha Marasu**
+Devi Akshitha Marasu
 =======
 
 >>>>>>> 1c248cb1153b87cf9cd2fe0ff71c4ca82d74d48a
